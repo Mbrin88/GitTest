@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: GitTestProject
+  gitServerName: Mathijs GitHub
+  gitUrl: https://github.com/Mbrin88/GitTestProject
+  gitUsername: Mbrin88
+  gitBranch: main
